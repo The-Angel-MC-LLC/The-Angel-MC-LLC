@@ -362,7 +362,7 @@ button{ font-family:inherit; }
 .location-grid figure{
   margin:0; border-radius:14px; overflow:hidden;
   box-shadow:0 14px 30px rgba(0, 0, 0, 0.12);
-  aspect-ratio:4 / 3; background:#dcdcd4;
+  aspect-ratio:3 / 3; background:#dcdcd4;
 }
 .location-grid img{ width:100%; height:100%; object-fit:cover; display:block; }
 
